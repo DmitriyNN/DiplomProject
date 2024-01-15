@@ -108,4 +108,6 @@
     <string name="terms_of_use_url">https://vhospice.org/#/terms-of-use</string>
     <string name="company_info">© I-Teco, 2022</string>
     <string name="our_mission_title_text">Love is all</string>
+    <string name="claims">Claims</string>
+    <string name="add_claim_button">Add claim button</string>
 </resources>
