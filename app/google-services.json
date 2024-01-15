@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817043901658",
+    "project_id": "fmhandroid-643ec",
+    "storage_bucket": "fmhandroid-643ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817043901658:android:5f8b46002fbeb426e069e3",
+        "android_client_info": {
+          "package_name": "ru.iteco.fmhandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaE_5Qj9UxWZtfQNizYLus9Ewrj7DZR4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
